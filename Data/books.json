@@ -82,7 +82,7 @@
   {
     "author": "Honor\u00e9 de Balzac",
     "country": "France",
-    "imageLink": "images/le-pere-goriot.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png/220px-Le_P%C3%A8re_Goriot%2C_1er_Volume%2C_1835.png",
     "language": "French",
     "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
     "pages": 443,
@@ -92,7 +92,7 @@
   {
     "author": "Samuel Beckett",
     "country": "Republic of Ireland",
-    "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/en/9/90/Beckett_Molloy.jpg",
     "language": "French, English",
     "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
     "pages": 256,
@@ -102,7 +102,7 @@
   {
     "author": "Giovanni Boccaccio",
     "country": "Italy",
-    "imageLink": "images/the-decameron.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Boccaccio_-_Decameron%2C_MCCCCLXXXXII_ad_di_XX_de_giugno_-_3852856_Scan00015.tif/lossy-page1-220px-Boccaccio_-_Decameron%2C_MCCCCLXXXXII_ad_di_XX_de_giugno_-_3852856_Scan00015.tif.jpg",
     "language": "Italian",
     "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
     "pages": 1024,
@@ -112,7 +112,7 @@
   {
     "author": "Jorge Luis Borges",
     "country": "Argentina",
-    "imageLink": "images/ficciones.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d6/Ficciones.jpg",
     "language": "Spanish",
     "link": "https://en.wikipedia.org/wiki/Ficciones\n",
     "pages": 224,
@@ -122,7 +122,7 @@
   {
     "author": "Emily Bront\u00eb",
     "country": "United Kingdom",
-    "imageLink": "images/wuthering-heights.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg/200px-Houghton_Lowell_1238.5_%28A%29_-_Wuthering_Heights%2C_1847.jpg",
     "language": "English",
     "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
     "pages": 342,
