@@ -12,7 +12,7 @@
   {
     "author": "Hans Christian Andersen",
     "country": "Denmark",
-    "imageLink": "images/fairy-tales.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hans_Christian_Andersen_%281834_painting%29.jpg/220px-Hans_Christian_Andersen_%281834_painting%29.jpg",
     "language": "Danish",
     "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
     "pages": 784,
@@ -22,7 +22,7 @@
   {
     "author": "Dante Alighieri",
     "country": "Italy",
-    "imageLink": "images/the-divine-comedy.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dante_Domenico_di_Michelino.jpg/323px-Dante_Domenico_di_Michelino.jpg",
     "language": "Italian",
     "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
     "pages": 928,
@@ -32,7 +32,7 @@
   {
     "author": "Unknown",
     "country": "Sumer and Akkadian Empire",
-    "imageLink": "images/the-epic-of-gilgamesh.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/British_Museum_Flood_Tablet.jpg/220px-British_Museum_Flood_Tablet.jpg",
     "language": "Akkadian",
     "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
     "pages": 160,
@@ -42,7 +42,7 @@
   {
     "author": "Unknown",
     "country": "Achaemenid Empire",
-    "imageLink": "images/the-book-of-job.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Aleppo_Codex_Joshua_1_1.jpg/220px-Aleppo_Codex_Joshua_1_1.jpg",
     "language": "Hebrew",
     "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
     "pages": 176,
@@ -52,7 +52,7 @@
   {
     "author": "Unknown",
     "country": "India/Iran/Iraq/Egypt/Tajikistan",
-    "imageLink": "images/one-thousand-and-one-nights.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cassim.jpg/220px-Cassim.jpg",
     "language": "Arabic",
     "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
     "pages": 288,
@@ -62,7 +62,7 @@
   {
     "author": "Unknown",
     "country": "Iceland",
-    "imageLink": "images/njals-saga.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Njal_saga_-_Skarphedinn.jpg/220px-Njal_saga_-_Skarphedinn.jpg",
     "language": "Old Norse",
     "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
     "pages": 384,
@@ -72,7 +72,7 @@
   {
     "author": "Jane Austen",
     "country": "United Kingdom",
-    "imageLink": "images/pride-and-prejudice.jpg",
+    "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/220px-PrideAndPrejudiceTitlePage.jpg",
     "language": "English",
     "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
     "pages": 226,
